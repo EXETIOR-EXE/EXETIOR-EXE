@@ -1,33 +1,35 @@
-## AM EXE , OR EXO 👋
-i am a kid who likes to model and animate and learning new skills 
-and a 3d artist working at improving my modeling and animation skills
-am still scared of geometry nodes
+I'M EXE, OR EXO 👋
+I am a kid who likes to model, animate, and learn new skills. I'm a 3D artist working on improving my modeling and animation skills, though I'm still scared of geometry nodes!
 
+WHAT AM I DOING? 🤔
+Blender modeling
 
-## what am i doing ? 🤔
-* blender modeling
-* shader editor
-* animating
+Shader editor
 
+Animating
 
-## WHAT AM I LEARNING ?
-* stylized comics and toon looking graphics and models
-* environment creating
-* motion graphics
-* advanced shading and vfx
-* making my scens more beautiful and cool
-* and soon games creating
-* character creating and rigging
+WHAT AM I LEARNING? 🚀
+Stylized comics, toon-looking graphics, and models
 
-## MY EXPERIENCE ?
-i worked as base animator and modeler for a roblox dev team before
+Environment creation
 
+Motion graphics
 
-## base knowledge i have
-u can never learn by asking how to do that and that and how to practice 
-work and do and learn by doing and learn what u need for your projects
-one little change adds a 5h of working and 10 more tutorials and Documentary
+Advanced shading and VFX
 
+Making my scenes look more beautiful and cool
+
+Game creation (coming soon!)
+
+Character creation and rigging
+
+MY EXPERIENCE? 💼
+I have previously worked as a base animator and modeler for a Roblox development team.
+
+BASE KNOWLEDGE I HAVE 💡
+You can never truly learn just by asking "how do I do this or that?" or "how do I practice?"
+
+The real way is to work, create, and learn by doing. Learn exactly what you need as you build your projects. Remember: one tiny change can easily add 5 hours of work, 10 more tutorials, and a deep dive into documentation!
 <!--
 **EXETIOR-EXE/EXETIOR-EXE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
