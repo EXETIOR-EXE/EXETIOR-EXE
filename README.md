@@ -26,7 +26,7 @@ I am a kid who likes to model, animate, and learn new skills. I'm a 3D artist wo
 ## MY EXPERIENCE? 💼
 * I have previously worked as a base animator and modeler for a Roblox development team.
 
-## BASE KNOWLEDGE I HAVE 💡
+## FACTS 💡
 You can never truly learn just by asking "how do I do this or that?" or "how do I practice?"
 
 The real way is to work, create, and learn by doing. Learn exactly what you need as you build your projects. Remember: one tiny change can easily add 5 hours of work, 10 more tutorials, and a deep dive into documentation!
