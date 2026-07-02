@@ -11,8 +11,8 @@ am still scared of geometry nodes
 
 
 ## WHAT AM I LEARNING ?
-*stylized comics and toon looking graphics and models
-*environment creating
+* stylized comics and toon looking graphics and models
+* environment creating
 *motion graphics
 *advanced shading and vfx
 *making my scens more beautiful and cool
