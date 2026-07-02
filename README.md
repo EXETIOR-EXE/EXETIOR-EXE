@@ -15,7 +15,7 @@ I am a kid who likes to model, animate, and learn new skills. I'm a 3D artist wo
 
 * Motion graphics
 
-*Advanced shading and VFX
+* Advanced shading and VFX
 
 * Making my scenes look more beautiful and cool
 
