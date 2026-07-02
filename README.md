@@ -3,24 +3,16 @@ I am a kid who likes to model, animate, and learn new skills. I'm a 3D artist wo
 
 ## WHAT AM I DOING? 🤔
 * Blender modeling
-
 * Shader editor
-
 * Animating
 
 ## WHAT AM I LEARNING? 🚀
 * Stylized comics, toon-looking graphics, and models
-
 * Environment creation
-
 * Motion graphics
-
 * Advanced shading and VFX
-
 * Making my scenes look more beautiful and cool
-
 * game creation soon
-
 * Character creation and rigging
 
 ## MY EXPERIENCE? 💼
