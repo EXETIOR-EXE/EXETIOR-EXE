@@ -1,32 +1,32 @@
-I'M EXE, OR EXO 👋
+## I'M EXE, OR EXO 👋
 I am a kid who likes to model, animate, and learn new skills. I'm a 3D artist working on improving my modeling and animation skills, though I'm still scared of geometry nodes!
 
-WHAT AM I DOING? 🤔
-Blender modeling
+## WHAT AM I DOING? 🤔
+* Blender modeling
 
-Shader editor
+* Shader editor
 
-Animating
+* Animating
 
-WHAT AM I LEARNING? 🚀
-Stylized comics, toon-looking graphics, and models
+## WHAT AM I LEARNING? 🚀
+* Stylized comics, toon-looking graphics, and models
 
-Environment creation
+* Environment creation
 
-Motion graphics
+* Motion graphics
 
-Advanced shading and VFX
+*Advanced shading and VFX
 
-Making my scenes look more beautiful and cool
+* Making my scenes look more beautiful and cool
 
-Game creation (coming soon!)
+* game creation soon
 
-Character creation and rigging
+* Character creation and rigging
 
-MY EXPERIENCE? 💼
-I have previously worked as a base animator and modeler for a Roblox development team.
+## MY EXPERIENCE? 💼
+* I have previously worked as a base animator and modeler for a Roblox development team.
 
-BASE KNOWLEDGE I HAVE 💡
+## BASE KNOWLEDGE I HAVE 💡
 You can never truly learn just by asking "how do I do this or that?" or "how do I practice?"
 
 The real way is to work, create, and learn by doing. Learn exactly what you need as you build your projects. Remember: one tiny change can easily add 5 hours of work, 10 more tutorials, and a deep dive into documentation!
